@@ -18,7 +18,8 @@ jobs:
       - name: Update TryHackMe Badge
         uses: p4p1/tryhackme-badge-workflow@main
         with:
-          user_id: 'Svqxcw'
+          username: 'Svqxcw'
+          image_path: 'thm-badge.png'
 
       - name: Commit & Push changes
         run: |
