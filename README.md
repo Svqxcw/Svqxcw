@@ -7,11 +7,8 @@
 * ⚙️ Building backend systems & low-level software
 * 🔍 Always hunting for vulnerabilities and learning something new
 
-<p align="left">
-  <a href="https://tryhackme.com/p/Svqxcw" target="_blank">
-    <img src="https://tryhackme-badge.vercel.app/api/badge/Svqxcw" alt="TryHackMe Profile" />
-  </a>
-</p>
+| [<img src="https://tryhackme-badges.s3.amazonaws.com/Svqxcw.png" alt="TryHackMe">](https://tryhackme.com/p/Svqxcw) |
+| :------------------------------------------------------------------------------------------------------------------: |
 
 
 ### 🛠️ Languages & Development Tools
