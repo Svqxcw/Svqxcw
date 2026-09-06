@@ -2,24 +2,28 @@ name: TryHackMe Badge Update
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Automatyczna aktualizacja codziennie o północy
+    - cron: '0 0 * * *' # Aktualizacja codziennie o północy
   workflow_dispatch: # Przycisk do ręcznego uruchomienia
+
+permissions:
+  contents: write
 
 jobs:
   update-badge:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-      - name: Download THM Badge
-        run: |
-          curl -s https://tryhackme-badges.s3.amazonaws.com/Svqxcw.png -o thm-badge.png || true
+      - name: Update TryHackMe Badge
+        uses: p4p1/tryhackme-badge-workflow@v1.1.0
+        with:
+          user_id: 'Svqxcw'
 
-      - name: Commit and Push if Changed
+      - name: Commit & Push changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add thm-badge.png
+          git add .
           git commit -m "Update TryHackMe badge" || exit 0
           git push
