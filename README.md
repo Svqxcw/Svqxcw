@@ -4,6 +4,6 @@
 
 <p align="left">
   <a href="https://tryhackme.com/p/Svqxcw" target="_blank">
-    <img src="https://badge.tryhackme.com/api/v1/badge/Svqxcw" alt="TryHackMe Profile" />
+    <img src="https://tryhackme-badges.s3.amazonaws.com/Svqxcw.png" alt="TryHackMe" />
   </a>
 </p>
