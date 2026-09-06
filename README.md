@@ -2,11 +2,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00FF00&width=435&lines=Welcome!" alt="Typing SVG" />
 </a>
 
-◼️ I'm studing cybersecurity
-
-◼️ I'm playing CTFs
-
-◼️ Always trying to learn something new
+* 🎓 Studying **Software Engineering** & exploring **Cybersecurity**
+* 🚩 Solving CTFs & documenting walkthroughs on **TryHackMe**
+* ⚙️ Building backend systems & low-level software
+* 🔍 Always hunting for vulnerabilities and learning something new
 
 <p align="left">
   <a href="https://tryhackme.com/p/Svqxcw" target="_blank">
