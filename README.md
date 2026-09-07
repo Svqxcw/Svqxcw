@@ -9,8 +9,12 @@
 
 <a href="https://tryhackme.com/p/Svqxcw">
   <img src="./thm-badge.png" width="400" alt="TryHackMe Profile" />
-</a>
+</a><br>
 
+### 📜 Certifications
+<a href="https://tryhackme.com/p/Svqxcw">
+  <img src="./badges_preview.png" width="600" alt="TryHackMe Profile" />
+</a>
 
 ### 🛠️ Languages & Development Tools
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
