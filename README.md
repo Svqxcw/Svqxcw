@@ -47,4 +47,4 @@
 
 
 ### 🏆 Badges TOP
-[![Bronze League Badge](https://tryhackme-assets.s3.amazonaws.com/room-badges/bronze-league.png)]
+[![Bronze League Badge](https://tryhackme.com/assets/images/leagues/badges/bronze.svg)](https://tryhackme.com/Svqxcw/badges/bronze-league?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=68baf9f406ff1e690a2aa761)
