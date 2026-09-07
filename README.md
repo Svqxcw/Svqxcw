@@ -44,3 +44,7 @@
 ### 📊 SIEM & Network Monitoring
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
 ![Tcpdump](https://img.shields.io/badge/Tcpdump-006699?style=for-the-badge)
+
+
+### 🏆 Badges TOP
+https://tryhackme.com/Svqxcw/badges/bronze-league?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=68baf9f406ff1e690a2aa761
