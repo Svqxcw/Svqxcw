@@ -7,8 +7,9 @@
 * ⚙️ Building backend systems & low-level software
 * 🔍 Always hunting for vulnerabilities and learning something new
 
-| [![TryHackMe Profile](assets/thm-badge.png)](https://tryhackme.com/p/Svqxcw) |
-| :------------------------------------------------------------------------------------------------------------------: |
+<a href="https://tryhackme.com/p/Svqxcw">
+  <img src="./thm-badge.png" width="400" alt="TryHackMe Profile" />
+</a>
 
 
 ### 🛠️ Languages & Development Tools
