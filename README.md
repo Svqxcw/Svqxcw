@@ -3,7 +3,7 @@
 </a>
 
 * 🎓 Studying **Software Engineering** & exploring **Cybersecurity**
-* 🚩 Solving CTFs & documenting walkthroughs on **TryHackMe**
+* 🚩 Solving CTFs & documenting walkthroughs on **TryHackMe** & **HacTheBox**
 * ⚙️ Building backend systems & low-level software
 * 🔍 Always hunting for vulnerabilities and learning something new
 
