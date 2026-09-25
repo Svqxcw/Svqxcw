@@ -45,6 +45,8 @@
 ![SQLmap](https://img.shields.io/badge/SQLmap-2D8CFF?style=for-the-badge)
 ![John the Ripper](https://img.shields.io/badge/John_the_Ripper-414141?style=for-the-badge)
 ![Hashcat](https://img.shields.io/badge/Hashcat-FF9900?style=for-the-badge)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-1E1E1E?style=for-the-badge&logo=owasp&logoColor=white)
+![NoScope](https://img.shields.io/badge/NoScope-00C853?style=for-the-badge)
 
 ### 📊 SIEM & Network Monitoring
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
